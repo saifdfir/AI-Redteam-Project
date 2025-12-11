@@ -1,4 +1,4 @@
-# 🔴 AI Red-Teaming Evaluation — Mistral 7B Instruct
+# 🔴 AI Red-Teaming Evaluation — Adversarial Behavioural Analysis
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Red%20Teaming-red" />
