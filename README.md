@@ -18,7 +18,7 @@ The reports record the prompts, configuration, and responses. Supporting images 
 
 These observations are specific to the model, settings, and prompts used in this lab. A model’s claim that its rules were disabled is a statement in its output. The follow-up responses show how it behaved after accepting that premise.
 
-**📬 Contact:**
+**Contact:**
 
 Open to collaboration on AI Security and Red Teaming projects.
 
