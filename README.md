@@ -1,5 +1,9 @@
 # Red-Teaming Mistral 7B Locally
 
+![AI Red Teaming](https://img.shields.io/badge/Focus-AI%20Red%20Teaming-b42318?style=flat-square)
+[![Mistral 7B Instruct v0.3](https://img.shields.io/badge/Model-Mistral--7B--Instruct%20v0.3-f97316?style=flat-square)](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)
+[![LM Studio](https://img.shields.io/badge/Runtime-LM%20Studio-2563eb?style=flat-square)](https://lmstudio.ai/)
+
 I ran five tests against Mistral-7B-Instruct v0.3 in LM Studio. I wanted to see how the model responded to requests for hidden instructions or private data, and whether role-play or follow-up prompts changed its behavior.
 
 ## Results
