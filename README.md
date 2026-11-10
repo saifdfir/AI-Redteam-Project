@@ -18,8 +18,12 @@ The reports record the prompts, configuration, and responses. Supporting images 
 
 These observations are specific to the model, settings, and prompts used in this lab. A model’s claim that its rules were disabled is a statement in its output. The follow-up responses show how it behaved after accepting that premise.
 
-## Contact
+**📬 Contact:**
 
-- [Email](mailto:saifcyb@gmail.com)
-- [Portfolio](https://saifdfir.github.io/portfolio/)
-- [LinkedIn](https://www.linkedin.com/in/mohammed-saif-ul-islam-85a68639a/)
+Open to collaboration on AI Security and Red Teaming projects.
+
+Email: saifcyb@gmail.com
+
+Portfolio: [saifdfir.github.io/portfolio](https://saifdfir.github.io/portfolio/)
+
+LinkedIn: [Mohammed Saif ul Islam](https://www.linkedin.com/in/mohammed-saif-ul-islam-85a68639a/)
